@@ -7,8 +7,8 @@
 
 - 出典: k16shikano, gist「日本語技術文書の文章規範」
 - URL: https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d
-- ライセンス: gist に明示なし。取り込み時点でライセンス表記を確認できなかった。
-- 取扱い: ライセンスが不明のため、本リポジトリは非公開で管理する。公開・再配布の前に作者への確認かライセンスの明示を行うこと。
+- ライセンス: Unlicense（パブリックドメイン相当）。作者が gist の comment 6210840 で明示している（`skills/japanese-tech-writing/UNLICENSE` に原文を同梱）。
+- 取扱い: 再配布・改変・公開を自由に行える。
 
 ## natural-japanese
 

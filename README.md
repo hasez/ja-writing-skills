@@ -7,7 +7,7 @@
 
 | Skill                   | 役割                                                           | 出典                  | ライセンス       |
 | ----------------------- | -------------------------------------------------------------- | --------------------- | ---------------- |
-| `japanese-tech-writing` | 日本語技術文書の文章規範（整形、論理の組み立て、冗長さの除去） | k16shikano gist       | 明示なし（後述） |
+| `japanese-tech-writing` | 日本語技術文書の文章規範（整形、論理の組み立て、冗長さの除去） | k16shikano gist       | Unlicense        |
 | `natural-japanese`      | AI っぽさと読みにくさを機械で検査する仕上げ                    | coji/natural-japanese | MIT              |
 
 ## 使い方
@@ -86,6 +86,6 @@ git submodule update --remote .ext/ja-writing-skills
 ## ライセンスと出典
 
 - `natural-japanese` は MIT である。`skills/natural-japanese/LICENSE` に原文を同梱する。出典は https://github.com/coji/natural-japanese
-- `japanese-tech-writing` は出典 gist に明示ライセンスがない。https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d を参照して取り込んだ。ライセンスが不明なため、本リポジトリは**非公開**で管理する。公開や再配布をする前に、作者への確認かライセンスの明示を行うこと。
+- `japanese-tech-writing` は **Unlicense**（パブリックドメイン相当）である。作者が gist のコメントで明示している（https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d の comment 6210840）。`skills/japanese-tech-writing/UNLICENSE` に原文を同梱する。再配布・改変・公開は自由に行える。
 
 詳細な帰属は `NOTICE.md` に記す。
